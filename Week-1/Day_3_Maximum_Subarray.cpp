@@ -1,6 +1,6 @@
 class Solution {
 public:
-    //Using kadane's Algorithm is the best in this case as it has O(n) and constant space complexity
+    //Using kadane's Algorithm is the best in this case as it has O(n) int time and constant auxillary space
     //Popular problems asked in Coding interveiws 
     int maxSubArray(vector<int>& nums) {
         //Simple Code: My approach
