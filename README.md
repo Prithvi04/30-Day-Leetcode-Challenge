@@ -7,6 +7,8 @@ https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge
 
 Check the well documented solutions (in C++) in this Repository.
 
+I have also discussed the approach and possible alternatives to solve the problem.
+
 This is exclusively for those early into Competitive Programming or Coding Interveiw Preparation.
 
 Ping me on LinkedIn for doubts, will be happy to help.
