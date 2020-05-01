@@ -1,5 +1,5 @@
 # 30-Day-Leetcode-Challenge
-This Repository contains my solutions for 30 Day Leetcode Challenge.
+This Repository contains my solutions of 30 Day Leetcode Challenge.
 
 Please remember to solve the questions first (Don't Miss the Fun!) at:
 
